@@ -1,3 +1,4 @@
+#Files to be ignored/not tacked by git.
 .DS_Store
 .DS_Store?
 ._*
